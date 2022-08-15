@@ -1,0 +1,36 @@
+<!--Tarjetas-->
+<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+    <br><br><br>
+    <div class="row">
+    <div class="col-sm-5">
+    <!--columna list view vacia-->
+    </div>
+    <div class="col">
+    <div class="card" style="width: 27rem;">
+    <div class="container card-header bg-transparent" style="black; font-size: 17px;">
+    <div class="containet text-center">
+    <div class="row align-items-end">
+    <div class="col-md-8 text-left text-end fs-4">
+    <strong class="fs-4">My first photo</strong>
+    </div>
+    <div class="col">
+    </div>
+    <div class="col">
+    <strong class="fs-6 fw-light">1/10</strong>
+    </div>
+    </div>
+    </div>
+    </div>
+    <!--Termina header-->
+    <img src="https://media3.giphy.com/media/ehegLhF3Z80xi/giphy.gif?cid=ecf05e47zmb835n0ugo08bxd19yxe01xzskqzyaeecd57cl5&rid=giphy.gif&ct=g" class="card-img-top" alt="imagen 1" title="imagen1">
+    <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <div class="row">
+    <div class="col d-flex">
+    <i class="fa-brands fa-octopus-deploy fa-2x"></i><input type="text" class="form-control d-flex border-0" id="exampleFormControlInput1" placeholder="name@example.com">
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
